@@ -191,85 +191,85 @@ export const players = [
 export const lakersPlayers = [
     {
         id: 1,
-        img: "https://2kdb.net/storage/players/23/mohamed_bamba_61694.jpg",
-        name: "Mo Bamba",
+        img: "https://img.2kdb.net/-p1X6JdSWZSySZx0r3hWcCWkT8gTjMd5DvQcSM7kK4c/s:384:0/f:webp/q:75/cb:1731527450805/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2556932.png",
+        name: "Jaxson Hayes",
     },
 
     {
         id: 2,
-        img: "https://2kdb.net/storage/players/23/malik_beasley_61672.jpg",
-        name: "Malik Beasley",
+        img: "https://img.2kdb.net/9dlcfgvucmq-gp1cRH3KjbZeCzXKP4lXjsADGZgmtZs/s:384:0/f:webp/q:75/cb:1731527450805/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2556368.png",
+        name: "Jalen Hood-Schifino",
     },
 
     {
         id: 3, 
-        img: "https://2kdb.net/storage/players/23/troy_brown_jr._61921.jpg",
-        name: "Troy Brown JR.",
+        img: "https://img.2kdb.net/7azP2c1DIcbcgPI6D--SUfWwSrRODNtm0sU7AUhxrOE/s:384:0/f:webp/q:75/cb:1731526741456/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2510436.png",
+        name: "Bronny James JR.",
     },
 
     {
         id: 4,
-        img: "https://2kdb.net/storage/players/23/max_christie_10074.jpg",
+        img: "https://img.2kdb.net/YvFTblVCO6tl2ZI3mTiPcFsiV68qjG8FC1sKID8AMyQ/s:384:0/f:webp/q:75/cb:1731527726825/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2556370.png",
         name: "Max Christie",
     },
 
     {
         id: 5,
-        img: "https://2kdb.net/storage/players/23/anthony_davis_61318.jpg",
+        img: "https://img.2kdb.net/J9vE_ZdAflJCPp9lrvVI8RNa0g7qTJ6DuwSeup-XWnI/s:384:0/f:webp/q:75/cb:1731527299065/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2556943.png",
         name: "Anthony Davis",
     },
 
     {
         id: 6,
-        img: "https://2kdb.net/storage/players/23/wenyen_gabriel_7772.jpg",
-        name: "Wenyen Gabriel",
+        img: "https://img.2kdb.net/3qygsi12udcM4fof-mUrOPIhTgt0OWLxsKYLGfaL4rs/s:384:0/f:webp/q:75/cb:1731526741456/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2510398.png",
+        name: "Dalton Knecht",
     },
 
     {
         id: 7,
-        img: "https://2kdb.net/storage/players/23/rui_hachimura_61104.jpg",
+        img: "https://img.2kdb.net/E7IYS9Y3l3fXlYmnXgSAAixLJVLkZ8esFaq6_qaAmIA/s:384:0/f:webp/q:75/cb:1732288825712/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2558029.png",
         name: "Rui Hachimura",
     },
 
     {
         id: 8,
-        img: "https://2kdb.net/storage/players/23/lebron_james_62158.jpg",
+        img: "https://img.2kdb.net/DuEiqkssT_sE6IIzKycFbtBS5XhxK2aOevnArjNBDBE/s:384:0/f:webp/q:75/cb:1731527299065/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2555527.png",
         name: "Lebron James",
     },
 
     {
         id: 9,
-        img: "https://2kdb.net/storage/players/23/austin_reaves_61950.jpg",
+        img: "https://img.2kdb.net/XQRu2wfVrt2sTlbCxvy2NIur-VqHSoTa3a4SyU59-2Y/s:384:0/f:webp/q:75/cb:1731528271739/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2556365.png",
         name: "Austin Reaves",
     },
 
     {
         id: 10,
-        img: "https://2kdb.net/storage/players/23/davon_reed_7537.jpg",
-        name: "Davon Reed",
+        img: "https://img.2kdb.net/c7njmWEyblp5R7tQ2bTipZH3DgA_lGLGNeS7B6vRCwE/s:384:0/f:webp/q:75/cb:1731527450805/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2557847.png",
+        name: "Christian Koloko",
     },
 
     {
         id: 11,
-        img: "https://2kdb.net/storage/players/23/d_angelo_russell_61956.jpg",
+        img: "https://img.2kdb.net/b7VlgjPEc-WWscNRcagcsD7WSlk-WH6sMSp_WrPyrgc/s:384:0/f:webp/q:75/cb:1731528182263/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2555143.png",
         name: "D'Angelo Russell",
     },
 
     {
         id: 12,
-        img: "https://2kdb.net/storage/players/22/dennis_schroder_8975.jpg",
-        name: "Dennis Schröder",
+        img: "https://img.2kdb.net/n0vGdEErrBtr37Ldm655oFbu_AJomqa9_KyrC2rN9Z8/s:384:0/f:webp/q:75/cb:1731527426287/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2558284.png",
+        name: "Cam Reddish",
     },
 
     {
         id: 13,
-        img: "https://2kdb.net/storage/players/23/jarred_vanderbilt_61499.jpg",
+        img: "https://img.2kdb.net/z3A9XEDw9xjjUX6AUlrfXiEHUCOpILt58BKfVCGOk1w/s:384:0/f:webp/q:75/cb:1731527712730/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2556734.png",
         name: "Jarred Vanderbilt",
     },
     
     {
         id: 14,
-        img: "https://2kdb.net/storage/players/23/lonnie_walker_iv_7717.jpg",
+        img: "https://img.2kdb.net/UIxsF6zJ0zIsCzi9S_ZvyvCq00qGFjgpFqJOeC3juw4/s:384:0/f:webp/q:75/cb:1731527700594/plain/https%3A%2F%2F2kdb.net%2Fstorage%2Fimages%2Fplayers%2F25%2F2556054.png",
         name: "Lonnie Walker IV",
     },
 ]
